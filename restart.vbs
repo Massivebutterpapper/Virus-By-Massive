@@ -1,0 +1,1 @@
+restart.exe -s -t 45 -c "IM IN UR PC!, I TOLD YOU ITS NOT JOKE!"
